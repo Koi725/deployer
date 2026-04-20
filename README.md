@@ -1,4 +1,4 @@
-# # 🚀 Deployer
+# 🚀 Deployer
 
 **Zero-downtime Docker Compose deployments in one command.**
 
